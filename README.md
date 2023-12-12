@@ -17,6 +17,6 @@ Now, I would like to show you the knowledge I have fullfiled in my time. The fol
 - Amazon Web Services
 - UiPath
 
-...along with the collection of badges and certifications from some of these different data applications.
+...along with the collection of badges and certifications from some of these different data applications. The work will be divided up into folders labeled by the course abbreviation, MG220, then followed by the course name within the parentheses, (Data Analysis). 
 
 Please contact me through either email, at trav.j.kerr@gmail.com, phone number, 973-668-3569, or LinkedIn to set up an interview. Thank you for your time and consideration to look through my Repository, I'm looking forward to talking to you soon. 
