@@ -1,5 +1,5 @@
 # Kerr-MI-462
-Hello, my name is Travis Kerr and I am currently a Senior Marketing/Data Analytics Track Major student at DeSales University. I have put together this Repository to deliever my efforts and achivements I have accomplished from multiple courses of my Data Analytics Track during my 3, and a half, years at DeSales. Included is a link for my Resume and LinkedIn Profile for you to access and view. (My LinkedIn is also attached to my GitHub Proflie page)
+Hello, my name is Travis Kerr and I am currently a Senior Marketing/Data Analytics Track Major student at DeSales University. I have put together this Repository to deliever my efforts and achivements I have accomplished from multiple courses of my Data Analytics Track during my 3, and a half, years at DeSales. Included is a link for my Resume and LinkedIn Profile for you to access and view.
 
 https://www.linkedin.com/in/travis-james-kerr/
 
