@@ -14,4 +14,5 @@ The following of information within this Repository includes all my past work, d
 - Microsoft Azure
 - Amazon Web Services
 - UiPath
+
 along with the collection of badges and certificates from some of these different data applications.
