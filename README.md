@@ -3,8 +3,6 @@ Hello, my name is Travis Kerr and I am currently a Senior Marketing/Data Analyti
 
 https://www.linkedin.com/in/travis-james-kerr/
 
-[Travis Kerr - Resume.pdf](https://github.com/Travis-Kerr/Kerr-MI-462/files/13644339/Travis.Kerr.-.Resume.pdf)
-
 Now, I would like to show you the knowledge I have fullfiled in my time. The following information within this Repository includes all my past work, data assignments, and data projects, that I have conducted with such data applications as...
 - MiniTab
 - Microsoft Excel
