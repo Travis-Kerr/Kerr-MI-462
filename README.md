@@ -16,6 +16,7 @@ Now, I would like to show you the type of knowledge I have sustained within my t
 - Microsoft Azure
 - Amazon Web Services
 - UiPath
+  
 ...along with the collection of badges and certificates from some of these different data applications that I achieved in these classes and work I have done on my own free time. The work will be divided up into folders labeled by the course abbreviation, MG220, then followed by the course name within the parentheses, (Data Analysis). The work I have gathered inside this Repository is everything I could find from my time taking these courses, there may be work I am missing from over my time as well.
 
 Please contact me through either email, at trav.j.kerr@gmail.com, phone number, 973-668-3569, or LinkedIn to set up an interview. Thank you for your time and consideration to look through my Repository, I'm looking forward to talking to you soon. 
